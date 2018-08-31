@@ -6,7 +6,7 @@ This is a simple Software. U can use it to cut .mp3 or .wav
 
 pydub https://github.com/jiaaro/pydub
 FFmpeg http://www.ffmpeg.org/download.html
-
+Github https://github.com/huxiao14/CutCat
 Thanks:)HF
 CutCat
 
